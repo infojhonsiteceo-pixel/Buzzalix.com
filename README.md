@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] — Welcome to My GitHub
+# 👋 Hi, I'm Jhon — Welcome to My GitHub
 
 I'm a **tech enthusiast**, **content creator**, and **digital explorer**, passionate about how technology is shaping our world—from the tools we use daily to the trends transforming industries.
 
